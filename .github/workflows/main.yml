@@ -31,7 +31,7 @@ jobs:
           # html file path
           htmlFile: ./index.html
           # output file path
-          outputFile: ./Michal Martincek _ Resume.pdf
+          outputFile: ./MichalMartincek_Resume.pdf
           # PDF options as described here:
           # Needs to be in JSON format, e.g. `{"format": "A4", "pageRanges": "1"}`
 
